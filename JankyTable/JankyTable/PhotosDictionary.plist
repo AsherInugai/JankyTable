@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Doge</key>
+	<string>https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.wJB2Nm6ZAEXazlbGx5F8bgHaFj%26pid%3DApi&amp;f=1</string>
+	<key>Can I Haz Cheezburger</key>
+	<string>https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.RRZ8NqoyV8obopiSS7M9rwHaHa%26pid%3DApi&amp;f=1</string>
+	<key>Never gonna give you up</key>
+	<string>https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Dz3bwHNlegN9OAABqSaqiQHaDt%26pid%3DApi&amp;f=1</string>
+</dict>
+</plist>
