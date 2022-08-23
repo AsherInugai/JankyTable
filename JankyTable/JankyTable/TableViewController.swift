@@ -48,14 +48,18 @@ class TableViewController: UITableViewController {
             
             let unfilteredImage = UIImage(data:imageData)
             image = self.applySepiaFilter(unfilteredImage!)
+            DispatchQueue.main.async{
+                //self.tableView.reloadData()
+                cell.textLabel?.text = rowKey
+                if image != nil {
+                    cell.imageView?.image = image!
+                }
+            }
         }
         
         
         // Configure the cell...
-        cell.textLabel?.text = rowKey
-        if image != nil {
-            cell.imageView?.image = image!
-        }
+        
         return cell
     }
     
